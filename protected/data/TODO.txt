@@ -1,0 +1,9 @@
+-- Permissões para profes criarem usuários de alunos, alunos se cadastrarem, editar somente seus cadastros
+-- Model Turma/Diario: selecionar as turmas da instituição apenas
+-- Filtros por curso e instituição de disciplinas, cursos
+-- Acesso de alunos / Acesso de instituições
+-- Alterar papel no cadastro do usuário e alterar no Auth.php
+-- Corrigir permissões de acesso as páginas para as turmas que o profe tem acesso, no momento ele não aparece na tela, mas dá pra abrir pela url.
+-- Enviar e-mails
+-- Criar avaliação recebendo turma_id
+-- Meus Dados do usuário
