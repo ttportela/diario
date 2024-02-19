@@ -1,3 +1,4 @@
 # diario
  Tarlis's Teaching Journal
- [Tarlis Tortelli](tarlis.com.br)
+ 
+ [Tarlis Tortelli](http://tarlis.com.br)
