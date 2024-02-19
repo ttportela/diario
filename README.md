@@ -1,2 +1,3 @@
 # diario
- Tarlis's Teaching Diario
+ Tarlis's Teaching Journal
+ [Tarlis Tortelli](tarlis.com.br)
