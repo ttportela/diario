@@ -132,22 +132,6 @@ return array(
             'charset' => 'utf8',
             'enableParamLogging' => true,
         ),
-		// 'db' => array(
-            // 'connectionString' => 'mysql:host=localhost;dbname=tarpor5_ei',
-            // 'emulatePrepare' => true,
-            // 'username' => 'tarpor5_ei',
-            // 'password' => '4470887',
-            // 'charset' => 'utf8',
-        // ),
-		// 'db' => array(
-            // 'connectionString' => 'mysql:host=localhost;dbname=tarli826_diario',
-            // 'emulatePrepare' => true,
-            // 'username' => 'tarli826_root',
-            // 'password' => '9pBKPDO5fCo4',
-            // 'charset' => 'utf8',
-            // // FTP:
-            // // Usuário/Senha:	tarli826 / 4YH2xyc13n
-        // ),
         'errorHandler' => array(
             // use 'site/error' action to display errors
             'errorAction' => 'site/error',
